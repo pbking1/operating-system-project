@@ -1,0 +1,3 @@
+ProcessID Resource arrival-time start-time end-time
+1 Rq 12:25:11 12:25:12 12:25:13
+2 R1 12:25:13 12:25:13 12:25:14
